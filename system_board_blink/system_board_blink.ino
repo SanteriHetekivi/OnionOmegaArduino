@@ -1,4 +1,3 @@
-
 #include <OnionLibrary.h>
 
 // Board power.
